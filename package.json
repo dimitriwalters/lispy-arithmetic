@@ -1,0 +1,33 @@
+{
+  "name": "lispy-arithmetic",
+  "version": "0.0.0",
+  "description": "Lisp-inspired arithmetic operations",
+  "main": "lispy-arithmetic.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimitriwalters/lispy-arithmetic.git"
+  },
+  "keywords": [
+    "arithmetic",
+    "operations",
+    "lisp",
+    "lispy",
+    "add",
+    "subtract",
+    "multiply",
+    "divide"
+  ],
+  "author": "Dimitri Walters <me@dimi.io> (http://dimi.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimitriwalters/lispy-arithmetic/issues"
+  },
+  "homepage": "https://github.com/dimitriwalters/lispy-arithmetic",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
