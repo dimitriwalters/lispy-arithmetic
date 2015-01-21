@@ -11,6 +11,8 @@ npm install lispy-arithmetic
 ## Usage
 
 ```js
+var la = require('lispy-arithmetic');
+
 la.add(); // 0
 la.add(3); // 3
 la.add(3, 2); // 5
